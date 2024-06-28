@@ -23,6 +23,15 @@ Anda adalah seorang lulusan Teknologi Informasi, sebagai ahli IT, salah satu kem
 
 Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentiment Analysis dengan komponen Backend menggunakan python: sentiment-analysis.py dengan spesifikasi sebagai berikut
 
+
+# Desain Rancangan Arsitektur
+
+
+![image](https://github.com/ch0clat/FPTKA/assets/151866048/96231efe-7d6b-4de1-ade1-429a29dfd62a)
+
+
+
+
 # Rincian Harga VM
 
 ### VM1 : WORKER 1
